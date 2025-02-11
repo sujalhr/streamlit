@@ -1,0 +1,9 @@
+url.txt
+*.log
+node_modules/
+venv/
+.vscode
+.env
+*.pyc
+__pycache__/
+.streamlit
